@@ -80,10 +80,15 @@ body {
     opacity: 0.8;
 }
 
-.text-content h1:hover,
-.text-content h1:active {
+.text-content h1:hover {
     color: var(--body-background);
     cursor: pointer;
+}
+
+.text-content h1:focus {
+    color: var(--body-background);
+    outline-color: var(--body-background);
+    outline: 1px dashed;
 }
 
 .text-content p {
