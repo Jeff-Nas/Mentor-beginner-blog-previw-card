@@ -41,7 +41,7 @@ Users should be able to:
 ### Links
 
 #### My solution is here: 
-- Live Site URL: [Add live site URL here](https://jeff-nas.github.io/Mentor-beginner-blog-previw-card/)
+- Live Site URL: [My solution](https://jeff-nas.github.io/Mentor-beginner-blog-previw-card/)
 
 ## My process
 
@@ -70,9 +70,10 @@ I also learned that when inserting an image into a container, it must have its h
 ```
 
 ## Author
-
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Jeff-Nas)
-- Twitter - [@yourusername](https://x.com/Jeferso65230539)
+ **`Feel free to connect with me!`**  👇
+- Frontend Mentor - [@Jeff-Nas](https://www.frontendmentor.io/profile/Jeff-Nas)
+- Twitter - [@Jeff-Nas](https://x.com/Jeferso65230539)
+- Linkedin - [Jeferson Nascimento]()
 
 
 
