@@ -15,6 +15,7 @@ Thanks for checking out this front-end coding challenge.
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
     - [Links](#links)
+      - [My solution is here:](#my-solution-is-here)
   - [My process](#my-process)
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
@@ -39,8 +40,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+#### My solution is here: 
+- Live Site URL: [Add live site URL here](https://jeff-nas.github.io/Mentor-beginner-blog-previw-card/)
 
 ## My process
 
