@@ -73,7 +73,7 @@ I also learned that when inserting an image into a container, it must have its h
  **`Feel free to connect with me!`**  👇
 - Frontend Mentor - [@Jeff-Nas](https://www.frontendmentor.io/profile/Jeff-Nas)
 - Twitter - [@Jeff-Nas](https://x.com/Jeferso65230539)
-- Linkedin - [Jeferson Nascimento](www.linkedin.com/in/jeferson-n-75663b145)
+- Linkedin - [Jeferson Nascimento](http://www.linkedin.com/in/jeferson-n-75663b145)
 
 
 
